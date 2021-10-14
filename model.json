@@ -287,15 +287,15 @@
       "shape": [3],
       "dtype": "float32"
     }, {
-      "name": "lstm/lstm_cell/kernel",
+      "name": "lstm/kernel",
       "shape": [126, 256],
       "dtype": "float32"
     }, {
-      "name": "lstm/lstm_cell/recurrent_kernel",
+      "name": "lstm/recurrent_kernel",
       "shape": [64, 256],
       "dtype": "float32"
     }, {
-      "name": "lstm/lstm_cell/bias",
+      "name": "lstm/bias",
       "shape": [256],
       "dtype": "float32"
     }, {
